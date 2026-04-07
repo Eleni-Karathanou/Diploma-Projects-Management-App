@@ -1,9 +1,9 @@
 # Diploma Thesis Management System 🎓
 
 ## About The Project
-A backend web application built with Java and Spring Boot, designed to manage the workflow of university diploma projects. The system acts as a bridge between professors offering thesis subjects and students applying for them, automating the application, evaluation, and assignment processes.
+A backend web application built with Java and Spring Boot designed to manage the workflow of university diploma projects. The system acts as a bridge between professors offering thesis subjects and students applying for them, automating the application, evaluation and assignment processes.
 
-## Built With (Tech Stack)
+## Built With
 * **Backend Framework:** Java, Spring Boot
 * **Architecture:** MVC (Model-View-Controller)
 * **Security:** Spring Security (BCrypt password encoding)
